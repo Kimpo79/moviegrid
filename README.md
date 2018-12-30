@@ -1,5 +1,7 @@
 # Movie list frontend test
 
+Demo URL: https://thirsty-lamarr-ac37d8.netlify.com/
+
 **How to run**
 
 Clone this repo
